@@ -1,0 +1,31 @@
+h2 {
+  font-style: italic;
+  font-size: 28px;
+}
+
+.jumbotron {
+  background-color: inherit;
+  overflow: hidden;
+}
+
+.jumbotron img {
+  /*margin: 100px;*/
+  padding: 15px;
+  margin: 15px;
+  float: left;
+  background-color: teal;
+  border-radius: 10%;
+}
+
+body {
+  background-image: url(../img/vegWallPaper.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: salmon;
+  text-shadow: black 1px 1px;
+}
+
+.well {
+  background-color: rgba(128, 255, 212, 0.6);
+  text-align: center;
+}
